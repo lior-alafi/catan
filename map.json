@@ -1,0 +1,294 @@
+{
+    "quota":{
+        "resources": {
+            "desert": 1,
+            "trees": 4,
+            "bricks": 4,
+            "stones": 4,
+            "meat": 4,
+            "wheat": 4
+        },
+        "cards":{
+
+        }
+       
+    },
+    "resources": {
+        "r1": {
+            "settlements": ["s47","s48","s49","s41","s40","s39"]
+        },
+        "r2": {
+            "settlements": ["s49","s50","s51","s43","s42","s41"]
+        },
+        "r3": {
+            "settlements": ["s51","s52","s53","s45","s44","s43"]
+        },
+        "r4": {
+            "settlements": ["s38","s39","s40","s35","s54","s36"]
+        },
+        "r5": {
+            "settlements": ["s40","s41","s42","s33","s34","s35"]
+        },
+        "r6": {
+            "settlements": ["s42","s43","s44","s31","s32","s33"]
+        },
+        "r7": {
+            "settlements": ["s44","s45","s46","s29","s30","s31"]
+        },
+        "r8": {
+            "settlements": ["s37","s36","s54","s19","s18","s17"]
+        },
+        "r9": {
+            "settlements": ["s54","s35","s34","s21","s20","s19"]
+        },
+        "r10": {
+            "settlements": ["s34","s33","s32","s23","s22","s21"]
+        },
+        "r11": {
+            "settlements": ["s32","s31","s30","s25","s24","s23"]
+        },
+        "r12": {
+            "settlements": ["s30","s29","s28","s27","s26","s25"]
+        },
+        "r13": {
+            "settlements": ["s18","s19","s20","s13","s14","s16"]
+        },
+        "r14": {
+            "settlements": ["s20","s21","s22","s11","s12","s13"]
+        },
+        "r15": {
+            "settlements": ["s22","s23","s24","s9","s10","s11"]
+        },
+        "r16": {
+            "settlements": ["s24","s25","s26","s15","s8","s9"]
+        },
+        "r17": {
+            "settlements": ["s14","s13","s12","s3","s2","s1"]
+        },
+        "r18": {
+            "settlements": ["s12","s11","s10","s5","s4","s3"]
+        },
+        "r19": {
+            "settlements": ["s10","s9","s8","s7","s6","s5"]
+        }
+    },
+    "settlements":{
+        "s1": {
+            "settlements":["s2","s14"],
+            "resources": ["r17"]
+        },
+        "s2": {
+            "settlements":["s1","s3"],
+            "resources": ["r17"]
+        },
+        "s3": {
+            "settlements":["s2","s12","s4"],
+            "resources": ["s17","s18"]
+        },
+        "s4": {
+            "settlements":["s3","s5"],
+            "resources": ["r18"]
+        },
+        "s5": {
+            "settlements":["s4","s6","s10"],
+            "resources": ["r18","r19"]
+        },
+        "s6": {
+            "settlements":["s5","s7"],
+            "resources": ["r19"]
+        },
+        "s7": {
+            "settlements":["s6","s8"],
+            "resources": ["r19"]
+        },
+        "s8": {
+            "settlements":["s9","s15","s7"],
+            "resources": ["r19","r16"]
+        },
+        "s9": {
+            "settlements":["s8","s24","s10"],
+            "resources": ["r19","r15","r16"]
+        },
+        "s10": {
+            "settlements":["s11","s9","s5"],
+            "resources": ["r18","r19","r15"]
+        },
+        "s11": {
+            "settlements":[],
+            "resources": []
+        },
+        "s12": {
+            "settlements":[],
+            "resources": []
+        },
+        "s13": {
+            "settlements":[],
+            "resources": []
+        },
+        "s14": {
+            "settlements":[],
+            "resources": []
+        },
+        "s15": {
+            "settlements":[],
+            "resources": []
+        },
+        "s16": {
+            "settlements":[],
+            "resources": []
+        },
+        "s17": {
+            "settlements":[],
+            "resources": []
+        },
+        "s18": {
+            "settlements":[],
+            "resources": []
+        },
+        "s19": {
+            "settlements":[],
+            "resources": []
+        },
+        "s20": {
+            "settlements":[],
+            "resources": []
+        },
+        "s21": {
+            "settlements":[],
+            "resources": []
+        },
+        "s22": {
+            "settlements":[],
+            "resources": []
+        },
+        "s23": {
+            "settlements":[],
+            "resources": []
+        },
+        "s24": {
+            "settlements":[],
+            "resources": []
+        },
+        "s25": {
+            "settlements":[],
+            "resources": []
+        },
+        "s26": {
+            "settlements":[],
+            "resources": []
+        },
+        "s27": {
+            "settlements":[],
+            "resources": []
+        },
+        "s28": {
+            "settlements":[],
+            "resources": []
+        },
+        "s29": {
+            "settlements":[],
+            "resources": []
+        },
+        "s30": {
+            "settlements":[],
+            "resources": []
+        },
+        "s31": {
+            "settlements":[],
+            "resources": []
+        },
+        "s32": {
+            "settlements":[],
+            "resources": []
+        },
+        "s33": {
+            "settlements":[],
+            "resources": []
+        },
+        "s34": {
+            "settlements":[],
+            "resources": []
+        },
+        "s35": {
+            "settlements":[],
+            "resources": []
+        },
+        "s36": {
+            "settlements":[],
+            "resources": []
+        },
+        "s37": {
+            "settlements":[],
+            "resources": []
+        },
+        "s38": {
+            "settlements":[],
+            "resources": []
+        },
+        "s39": {
+            "settlements":[],
+            "resources": []
+        },
+        "s40": {
+            "settlements":[],
+            "resources": []
+        },
+        "s41": {
+            "settlements":[],
+            "resources": []
+        },
+        "s42": {
+            "settlements":[],
+            "resources": []
+        },
+        "s43": {
+            "settlements":[],
+            "resources": []
+        },
+        "s44": {
+            "settlements":[],
+            "resources": []
+        },
+        "s45": {
+            "settlements":[],
+            "resources": []
+        },
+        "s46": {
+            "settlements":[],
+            "resources": []
+        },
+        "s47": {
+            "settlements":[],
+            "resources": []
+        },
+        "s48": {
+            "settlements":[],
+            "resources": []
+        },
+        "s49": {
+            "settlements":[],
+            "resources": []
+        },
+        "s50": {
+            "settlements":[],
+            "resources": []
+        },
+        "s51": {
+            "settlements":[],
+            "resources": []
+        },
+        "s52": {
+            "settlements":[],
+            "resources": []
+        },
+        "s53": {
+            "settlements":[],
+            "resources": []
+        },
+        "s54": {
+            "settlements":[],
+            "resources": []
+        }
+     
+    }
+}
